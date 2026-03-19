@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoeBavaria
+- 👋 Hi, I’m Jochen or simple Joe
 - 👀 I’m interested in Delphi and C
 - 🌱 I’m currently learning C but I dont't understand much ;)
 - 💞️ I’m looking to collaborate on ... hmmmm, I don't know ;) 
